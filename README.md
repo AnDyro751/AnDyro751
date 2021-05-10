@@ -1,4 +1,5 @@
 ### Hi there 👋
+![BannerGIF](https://res.cloudinary.com/healthbox/image/upload/c_scale,h_200/v1620682526/CV_github_e9w8ia.gif)
 
 <!--
 **AnDyro751/AnDyro751** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
