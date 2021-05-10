@@ -7,7 +7,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 
-💡 &nbsp; I'm a software developer, lover of ruby on rails and new technologies\
+💡 &nbsp; I'm a software developer, lover of ruby on rails and new technologies. I have more than 4 years working with ruby on rails and more than 6 years in the world of programming\
 🎓 &nbsp;I finished two careers in platzi. [Platzi Profile](https://platzi.com/p/AnDyro/)\
 ✍️ &nbsp;In my spare time I play video games, soccer and I like to drink craft beers.\
 🔭 &nbsp;I’m currently working on Waydda, a subscription-based delivery platform for local businesses.\
