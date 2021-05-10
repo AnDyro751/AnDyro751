@@ -1,6 +1,8 @@
 ![BannerGIF](https://res.cloudinary.com/healthbox/image/upload/q_54/v1620682722/Copia_de_CV_github_q78s1x.gif)
 
+
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -9,7 +11,7 @@
 🎓 &nbsp;I finished two careers in platzi. [Platzi Profile](https://platzi.com/p/AnDyro/)\
 ✍️ &nbsp;In my spare time I play video games, soccer and I like to drink craft beers.\
 🔭 &nbsp;I’m currently working on Waydda, a subscription-based delivery platform for local businesses.\
-✉️ &nbsp;You can email me at angelmendezz751@gmail.com. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at angelmendezz751@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
 ![RubyOnRails](https://img.shields.io/badge/-Ruby%20on%20Rails-05122A?style=flat&logo=ruby)&nbsp;
