@@ -10,7 +10,7 @@
 💡 &nbsp; I'm a software developer, lover of ruby on rails and new technologies. I have more than 6 years working with ruby on rails and more than 6 years in the world of programming\
 🎓 &nbsp;I finished two careers in platzi. [Platzi Profile](https://platzi.com/p/AnDyro/)\
 ✍️ &nbsp;In my spare time I play video games, soccer and I like to drink craft beers.\
-🔭 &nbsp;I’m currently working on Healthatom. Mejorar la calidad y el acceso a la salud de las personas.\
+🔭 &nbsp;I’m currently working on Drivana. The airbnb for cars.\
 ✉️ &nbsp;You can email me at angelmendezz751@gmail.com. I'll try to respond as soon as possible!
 
 ### 🛠 &nbsp;Tech Stack
